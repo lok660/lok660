@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **ShenZhen**
 
-- 🌱 I’m currently learning **Node,TypeScripe and Docker**
+- 🌱 I’m currently learning **ESBuild,TypeScript and Docker**
 
 - 💬 Ask me about **Node,Vue and Webpack**
 
