@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm lok660</h1>
 <h3 align="center">A passionate frontend developer from China</h3>
 
-- 🔭 I’m currently working on **ShenZhen**
+- 🔭 I’m currently working on **ShenZhen** 
 
 - 🌱 I’m currently learning **ESBuild,TypeScript and Docker**
 
